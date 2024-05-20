@@ -1,4 +1,4 @@
-package com.gpengtao.ortools;
+package com.gpengtao.ortools.cpstat;
 
 import com.google.ortools.Loader;
 import com.google.ortools.sat.CpModel;

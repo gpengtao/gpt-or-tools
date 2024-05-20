@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.gpengtao.ortools;
+package com.gpengtao.ortools.cpstat;
 
 import com.sun.jna.Platform;
 
